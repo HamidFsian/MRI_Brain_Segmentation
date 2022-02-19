@@ -2,7 +2,7 @@
 You will find a jupyter nootbook that perform Brain Segmentation using BRATS 2020 database.
 I used a 2D U-NET to performs brain segmentation. 
 I could not upload my pre-trained model, but feel free to e-mail me for it.
-
+< img src = "https://github.com/HamidFsian/MRI_Brain_Segmentation/blob/main/test_gif_BraTS20_Training_001_flair.gif">
 
 
 ## Problem definiton
